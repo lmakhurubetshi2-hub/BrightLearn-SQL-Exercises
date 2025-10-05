@@ -1,0 +1,27 @@
+-- Answers 
+
+--Question 1
+SELECT * FROM employees;
+
+--Question 2
+SELECT DISTINCT department
+FROM employees;
+-- Outcome table
+department
+IT
+HR
+Finance
+Marketing
+
+--Question 3 
+Select first_name,
+       last_name,
+       salary
+FROM employees
+ORDER BY 'salary' DESC;
+-- Outcome table
+first_name last_name salary
+Emily      Davis      62000
+Mike       Johnson    60000
+Robert     Wilson     59000
+
