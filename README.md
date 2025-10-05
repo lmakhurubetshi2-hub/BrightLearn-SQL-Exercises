@@ -1,2 +1,2 @@
 # BrightLearn-SQL-Exercises
-Exercise I did while learning SQL.
+Exercises I did while learning SQL.
