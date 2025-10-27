@@ -1,2 +1,2 @@
 # BrightLearn-SQL-Exercises
-Exercises I did while learning SQL.
+This repository stores all SQL hand written exercises I completed from SQL fundamentals to Advanced SQL.
